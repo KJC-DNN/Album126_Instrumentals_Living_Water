@@ -20,7 +20,7 @@ Fourteen instrumental tracks for Album 126. No vocals. Living water. Quiet worsh
 
 All Glory to Lord Jesus Christ.
 
-#Published
+# Published
 1. GitHub: 
 2. Archive: album-126-instrumentals-living-water-cover
 3. Zenodo: https://doi.org/10.5281/zenodo.24491288
